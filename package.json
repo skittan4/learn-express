@@ -1,0 +1,20 @@
+{
+  "name": "learn-express",
+  "version": "1.0.0",
+  "description": "",
+  "main": "workshop/server.js",
+  "private": true,
+  "scripts": {
+    "dev": "nodemon workshop/server.js"
+  },
+  "keywords": [],
+  "author": "Oliver Phillips <hello@oliverjam.es> (https://oliverjam.es/)",
+  "license": "ISC",
+  "devDependencies": {
+    "nodemon": "^2.0.4"
+  },
+  "dependencies": {
+    "cookie-parser": "^1.4.6",
+    "express": "^4.17.1"
+  }
+}
